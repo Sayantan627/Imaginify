@@ -174,9 +174,8 @@ const TransformationForm = ({
           [fieldName === "prompt" ? "prompt" : "to"]: value,
         },
       }));
-
-      return onChangeField(value);
-    }, 1000);
+    }, 1000)();
+    return onChangeField(value);
   };
 
   const onTransformHandler = async () => {
@@ -186,7 +185,6 @@ const TransformationForm = ({
     );
     setNewTransformation(null);
 
-    // ************* UPDATE CREDIT LATER****************
     startTransition(async () => {
       await updateCredits(userId, creditFee);
     });
@@ -217,6 +215,7 @@ const TransformationForm = ({
             className="w-full"
             render={({ field }) => (
               <Select
+                value={field.value}
                 onValueChange={(value) =>
                   onSelectFieldHandler(value, field.onChange)
                 }
