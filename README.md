@@ -17,6 +17,11 @@ Imaginify is an AI image SaaS platform that excels in image processing capabilit
 
 ## <a name="screenshots">🏘️ Screenshots</a>
 
+!["/screenshots/1.png"](screenshot-1)
+!["/screenshots/2.png"](screenshot-2)
+!["/screenshots/3.png"](screenshot-3)
+!["/screenshots/4.png"](screenshot-4)
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
@@ -131,5 +136,5 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## Credits
 
- - [Adrian Hajdin - JS Mastery](https://github.com/adrianhajdin)
- - [Build and Deploy a Full Stack AI SaaS Platform with Next js 14, TypeScript, Stripe](https://youtu.be/Ahwoks_dawU?si=ykCanyhrGzChgT5Y)
+- [Adrian Hajdin - JS Mastery](https://github.com/adrianhajdin)
+- [Build and Deploy a Full Stack AI SaaS Platform with Next js 14, TypeScript, Stripe](https://youtu.be/Ahwoks_dawU?si=ykCanyhrGzChgT5Y)
