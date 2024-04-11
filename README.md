@@ -17,10 +17,10 @@ Imaginify is an AI image SaaS platform that excels in image processing capabilit
 
 ## <a name="screenshots">🏘️ Screenshots</a>
 
-!["/screenshots/1.png"](screenshot-1)
-!["/screenshots/2.png"](screenshot-2)
-!["/screenshots/3.png"](screenshot-3)
-!["/screenshots/4.png"](screenshot-4)
+![Screenshot-1](/screenshots/1.png)
+![Screenshot-2](/screenshots/2.png)
+![Screenshot-3](/screenshots/3.png)
+![Screenshot-4](/screenshots/4.png)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
